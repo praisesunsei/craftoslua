@@ -1,2 +1,3 @@
-# testovoe
-k8s 
+# CraftOS lua fastfetch
+
+have fun
